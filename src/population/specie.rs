@@ -11,5 +11,4 @@ pub struct Specie {
     pub fitness_max: f64,
     pub stagnant_generations: usize,
     pub bounds: usize,
-    pub population: usize,
 }
